@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(98,55,78,255);
+  
+}
+  
+/* Using the "border-radius" property
+to draw the semi-circle*/
+
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+
+    background-color: rgba(98,55,78,255);
+  }
+  
+div {
+    
+}
+
+.square {
+  width: 5rem;
+  margin: 5rem;
+  text-align: center;
+  line-height: 5rem;
+  font-size: 1rem;
+    background-color:rgba(253,197,123,255);
+}
