@@ -1,0 +1,16 @@
+*{
+    background-color: rgba(227,81,110,255);
+}
+
+#shape {
+ width: 20rem;
+ height: 20rem;
+ border-radius: 10rem;
+ background: conic-gradient(
+  rgba(250,222,139,255) 0% 25%,
+  rgba(227,81,110,255) 25% 50%,
+  rgba(247,243,215,255) 50% 75%,
+  rgba(81,181,169,255) 75% 100%
+ );
+}
+
